@@ -10,11 +10,6 @@
 ## About Me
 Full-Stack Developer with experience in building web applications using modern backend and frontend technologies. Focused on clean architecture, scalable systems, and practical solutions. Interested in backend-heavy systems, APIs, and full-cycle product development.
 
-## GitHub Trophies
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=polchduikt&theme=dracula&no-frame=true&margin-w=15&column=6" alt="trophies" />
-</p>
-
 ## Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,postgres,mysql,mongodb,redis,react,redux,ts,js,html,css,tailwind,bootstrap,docker,kubernetes,jenkins,aws,linux,git,py,unreal" />
