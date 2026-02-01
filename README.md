@@ -23,7 +23,7 @@ Full-Stack Developer with experience in building web applications using modern b
 
 ## Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,postgres,mysql,mongodb,redis,react,ts,js,html,css,tailwind,bootstrap,docker,kubernetes,jenkins,aws,linux,git,py,unreal" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,idea,webstorm,nodejs,express,postgres,mysql,mongodb,redis,kafka,rabbitmq,react,ts,js,html,css,tailwind,docker,kubernetes,jenkins,aws,linux,arch,bash,git,py,unreal,unity,blender" />
 </p>
 
 <p align="center">
