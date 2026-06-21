@@ -19,27 +19,34 @@
 ## About Me
 Full-Stack Developer with experience in building web applications using modern backend and frontend technologies. Focused on clean architecture, scalable systems, and practical solutions. Interested in backend-heavy systems, APIs, and full-cycle product development.
 
+
 ## Tech Stack
 
-### Languages & Frameworks
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,react,nodejs,express,py" />
-</p>
+<div>
+  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polchduikt&layout=compact&theme=nord&hide_border=true&bg_color=00000000&hide_title=true" />
 
-### Data
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,rabbitmq" />
-</p>
+  ### Languages & Frameworks
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=java,spring,ts,react,nodejs,express,py" />
+  </p>
 
-### Infrastructure
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,jenkins,linux,arch,bash" />
-</p>
+  ### Data
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,rabbitmq" />
+  </p>
 
-### Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=idea,webstorm,pycharm,vscode" />
-</p>
+  ### Infrastructure
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,jenkins,linux,arch,bash&perline=6" />
+  </p>
+
+  ### Tools
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=idea,webstorm,pycharm,vscode" />
+  </p>
+</div>
+
+<br clear="both">
 
 <p align="center">
   <picture>
