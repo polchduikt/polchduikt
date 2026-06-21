@@ -20,8 +20,25 @@
 Full-Stack Developer with experience in building web applications using modern backend and frontend technologies. Focused on clean architecture, scalable systems, and practical solutions. Interested in backend-heavy systems, APIs, and full-cycle product development.
 
 ## Tech Stack
+
+### Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,idea,webstorm,nodejs,express,postgres,mysql,mongodb,redis,kafka,rabbitmq,react,ts,js,html,css,tailwind,docker,kubernetes,jenkins,aws,linux,arch,bash,git,py,unreal,unity,blender" />
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,react,nodejs,express,py" />
+</p>
+
+### Data
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,rabbitmq" />
+</p>
+
+### Infrastructure
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,jenkins,linux,arch,bash" />
+</p>
+
+### Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=idea,webstorm,pycharm,vscode" />
 </p>
 
 <p align="center">
