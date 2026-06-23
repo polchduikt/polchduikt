@@ -32,17 +32,17 @@ Full-Stack Developer with experience in building web applications using modern b
 
   ### Data
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,rabbitmq" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,elasticsearch,redis,kafka,rabbitmq" />
   </p>
 
   ### Infrastructure
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,jenkins,linux,arch,bash&perline=6" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,jenkins,linux,bash,grafana,prometheus&perline=9" />
   </p>
 
   ### Tools
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=idea,webstorm,pycharm,vscode" />
+    <img src="https://skillicons.dev/icons?i=idea,webstorm,pycharm,vscode,postman,obsidian" />
   </p>
 </div>
 
