@@ -22,7 +22,7 @@ Full-Stack Developer with experience in building web applications using modern b
 ## Tech Stack
 
 <div>
-  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polchduikt&layout=compact&theme=nord&hide_border=true&bg_color=00000000&hide_title=true" />
+  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polchduikt&layout=donut&theme=nord&hide_border=true&bg_color=00000000&hide_title=true" />
 
   ### Languages & Frameworks
   <p align="left">
@@ -44,8 +44,6 @@ Full-Stack Developer with experience in building web applications using modern b
     <img src="https://skillicons.dev/icons?i=idea,webstorm,pycharm,vscode,postman,obsidian,notion" />
   </p>
 </div>
-
-
 
 <br clear="both">
 
