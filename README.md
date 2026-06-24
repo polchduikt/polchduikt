@@ -36,14 +36,16 @@ Full-Stack Developer with experience in building web applications using modern b
 
   ### Infrastructure
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,jenkins,linux,bash,grafana,prometheus&perline=9" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,jenkins,linux,bash,grafana,prometheus,cloudflare,githubactions&perline=8" />
   </p>
 
   ### Tools
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=idea,webstorm,pycharm,vscode,postman,obsidian" />
+    <img src="https://skillicons.dev/icons?i=idea,webstorm,pycharm,vscode,postman,obsidian,notion" />
   </p>
 </div>
+
+
 
 <br clear="both">
 
