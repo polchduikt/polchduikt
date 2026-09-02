@@ -2,7 +2,7 @@
   <img src="assets/main.gif" width="1000" />
 </p>
 
-## About Me <img src="https://komarev.com/ghpvc/?username=polchduikt&label=Views&color=6366f1&style=flat-square" valign="middle" /> <img src="https://img.shields.io/github/stars/polchduikt?style=flat-square&color=7c3aed&label=Stars&logo=github-sponsors" valign="middle" />
+## About Me <img src="https://komarev.com/ghpvc/?username=polchduikt&label=Views&color=000000&labelColor=000000&style=flat-square" valign="middle" /> <img src="https://img.shields.io/github/stars/polchduikt?style=flat-square&color=000000&labelColor=000000&label=Stars&logo=github-sponsors" valign="middle" />
 Full-Stack Developer with experience in building web applications using modern backend and frontend technologies. Focused on clean architecture, scalable systems, and practical solutions. Interested in backend-heavy systems, APIs, and full-cycle product development.
 
 
