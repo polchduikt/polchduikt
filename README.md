@@ -22,7 +22,6 @@ Full-Stack Developer with experience in building web applications using modern b
 ## Tech Stack
 
 <div>
-  <img align="right" width="45%" src="https://github-stats-platform.vercel.app/api/render?widget=languages&username=polchduikt&theme=dark" />
 
   ### Languages & Frameworks
   <p align="left">
