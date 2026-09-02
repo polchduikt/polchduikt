@@ -41,7 +41,7 @@ Full-Stack Developer with experience in building web applications using modern b
 
   ### Tools
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=idea,webstorm,pycharm,vscode,postman,obsidian,notion" />
+    <img src="https://skillicons.dev/icons?i=idea,webstorm,pycharm,vscode,postman,obsidian" />
   </p>
 </div>
 
