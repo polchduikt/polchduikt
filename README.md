@@ -2,7 +2,7 @@
   <img src="assets/main.gif" width="1000" />
 </p>
 
-## About Me
+## About Me <img src="https://komarev.com/ghpvc/?username=polchduikt&label=Views&color=6366f1&style=flat-square" valign="middle" /> <img src="https://img.shields.io/github/stars/polchduikt?style=flat-square&color=7c3aed&label=Stars&logo=github-sponsors" valign="middle" />
 Full-Stack Developer with experience in building web applications using modern backend and frontend technologies. Focused on clean architecture, scalable systems, and practical solutions. Interested in backend-heavy systems, APIs, and full-cycle product development.
 
 
@@ -55,13 +55,6 @@ Full-Stack Developer with experience in building web applications using modern b
     <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
     <img src="https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian" />
-  </p>
-
-  ### Misc
-  <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=polchduikt&label=Views&color=6366f1&style=flat-square" />
-    <img src="https://img.shields.io/github/followers/polchduikt?label=Followers&style=flat-square&color=4f46e5&logo=github" />
-    <img src="https://img.shields.io/github/stars/polchduikt?style=flat-square&color=7c3aed&label=Stars&logo=github-sponsors" />
   </p>
 </div>
 
