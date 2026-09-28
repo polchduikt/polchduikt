@@ -1,4 +1,4 @@
-<p align="center">
+<img width="852" height="606" alt="{9E5F7687-583B-4898-8DDE-832B58D9274E}" src="https://github.com/user-attachments/assets/33bcb2c2-2f99-47ef-a9b2-9ebedaff8390" /><p align="center">
   <img src="assets/main.gif" width="1000" />
 </p>
 
@@ -62,8 +62,8 @@ Full-Stack Developer with experience in building web applications using modern b
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/polchduikt/polchduikt/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/polchduikt/polchduikt/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/polchduikt/polchduikt/output/github-contribution-grid-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/polichdev/polichdev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/polichdev/polichdev/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/polichdev/polichdev/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </p>
